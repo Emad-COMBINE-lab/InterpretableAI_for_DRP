@@ -1,0 +1,1 @@
+{"n_in": 8324, "n_pathway": 1608, "n_hidden1": 2048, "n_hidden2": 512, "drop_rate": 0.05, "batch_size": 128, "lr_adam": 0.0002, "weight_decay_adam": 0.0001, "lr_sgd": 5e-05, "weight_decay_sgd": 0, "epoch": 10}

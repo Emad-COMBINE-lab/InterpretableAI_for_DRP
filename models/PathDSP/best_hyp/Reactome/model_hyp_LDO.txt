@@ -1,0 +1,1 @@
+{"n_in": 6944, "n_hidden1": 2048, "n_hidden2": 2048, "n_hidden3": 512, "n_hidden4": 128, "batch_size": 128, "lr_adam": 0.0001, "weight_decay_adam": 0, "drop_rate": 0.1, "epoch": 17}

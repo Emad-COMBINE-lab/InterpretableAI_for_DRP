@@ -1,0 +1,1 @@
+{"n_drug_feature": 512, "n_gene_feature": 5511, "n_pathway": 332, "n_drugnet1": 256, "n_drugnet2": 128, "n_drugatt1": 256, "n_drugatt2": 64, "n_drugenc_gene": 4, "n_drugenc_pathway": 8, "batch_size": 256, "lr_adam": 0.0001, "weight_decay_adam": 0, "epoch": 6}

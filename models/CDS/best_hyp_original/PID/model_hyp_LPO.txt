@@ -1,0 +1,1 @@
+{"n_in": 6234, "n_gene": 2078, "n_pathway": 196, "n_hidden1": 128, "n_hidden2": 128, "n_hidden3": 64, "batch_size": 256, "lr": 0.001, "epoch": 49}
