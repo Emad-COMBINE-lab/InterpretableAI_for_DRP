@@ -24,7 +24,7 @@ Jin, I. & Nam, H. HiDRA: Hierarchical Network for Drug Response Prediction with 
 Tang, Y. C. & Gottlieb, A. Explainable drug sensitivity prediction through cancer pathway enrichment. Sci. Rep. 11, (2021)
 
 ## Input Data
-The input data for the models can be found at (Zenodo link).
+The input data for the models can be found at [Zenodo](https://zenodo.org/record/7101665#.Y0ho--zMI1K).
 
 ## Environment Requirement
 - python -3.9.7
