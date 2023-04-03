@@ -36,7 +36,7 @@ The input data for the models can be found at [Zenodo](https://zenodo.org/record
 
 ## Usage
 
- - Download the input data folder from (Zenodo link) and place the input
+ - Download the input data folder from [Zenodo](https://zenodo.org/record/7101665#.Y0ho--zMI1K) and place the input
    data folder under the **same directory** as the *models* folder (found in this GitHub repository). You could place the input data folder else where, but make sure the dataroot argument in the bash scripts is modified accordingly. **DO NOT MODIFY** the input data folder.
  - To run any desired model, open the terminal and navigate into the corresponding model folder (e.g. `cd models/PathDNN/`) 
  - Depending on what task you wish to run, modify the arguments (dataroot, outroot, etc.) in *run_pretrained.sh* or *run_model_with_hyp.sh* accordingly.
